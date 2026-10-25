@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+data/raw/
+data/processed/
+checkpoints/*.pt
+checkpoints/*.pth
+output/*.png
+output/*.gif
+output/*.mp4
+*.log
+.DS_Store
+.pytest_cache/

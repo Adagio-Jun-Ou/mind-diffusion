@@ -1,0 +1,21 @@
+# --- Core ---
+torch
+torchvision
+numpy
+pillow
+matplotlib
+tqdm
+einops
+
+# --- Hugging Face datasets / models ---
+datasets
+huggingface_hub
+
+# --- Acceleration (optional, uncomment to enable AMD/Intel GPU on Windows) ---
+# torch-directml
+
+# --- Image sequence / animation ---
+imageio
+
+# --- Config / CLI ---
+pyyaml
